@@ -4,61 +4,61 @@
 	<name>BARRIO CRISTOBAL.kml</name>
 	<Style id="style">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style02">
 		<LineStyle>
-			<color>ff00aa00</color>
+			<color>ffFF0000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style1">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style121">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style13">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style202">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style3">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style4">
 		<LineStyle>
-			<color>ff00aa00</color>
+			<color>ffFF0000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style8">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style9">
 		<LineStyle>
-			<color>ff00aa55</color>
+			<color>ff800000</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
