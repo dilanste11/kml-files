@@ -4,13 +4,13 @@
 	<name>CIRCULAR.kml</name>
 	<Style id="style011">
 		<LineStyle>
-			<color>ff00ffaa</color>
+			<color>ff00FF00</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style160">
 		<LineStyle>
-			<color>ff00ffaa</color>
+			<color>ff00FF00</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
