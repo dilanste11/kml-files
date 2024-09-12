@@ -34,43 +34,43 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>3.7</width>
 		</LineStyle>
 	</Style>
 	<Style id="style00">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style1000">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style102">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style11">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style200">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style5">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ffFF00FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
