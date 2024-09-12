@@ -4,13 +4,13 @@
 	<name>FLORESTA.kml</name>
 	<Style id="style1103">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff0000FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="style213">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff0000FF</color>
 			<width>4</width>
 		</LineStyle>
 	</Style>
